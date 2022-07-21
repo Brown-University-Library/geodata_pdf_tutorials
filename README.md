@@ -1,2 +1,2 @@
 # GeoData@SciLi PDF Tutorials
-This repo is storage for text-based tutorials and accompanying sample data that we create in lab. Visit https://libguides.brown.edu/gis_data_tutorials for formatted descriptions that link to all of this material.
+This repo is storage for text-based tutorials and accompanying sample data that we create in lab. Visit https://libguides.brown.edu/gis_data_tutorials for formatted descriptions that link to all of this material. These materials are published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) International license (CC BY-NC-ND 4.0).
